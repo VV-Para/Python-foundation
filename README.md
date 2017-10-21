@@ -1,2 +1,2 @@
-# Udacity
-Project for Udacity
+# Udacity python-foundation
+code for Udacity python-foundation course.
