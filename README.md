@@ -8,7 +8,7 @@ code for Udacity python-foundation course.
 -----------------------------------------------
 20171022:
 
-task0
+task0：
 去除return（）中的内容
 
 task1：
