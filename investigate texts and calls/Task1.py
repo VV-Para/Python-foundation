@@ -11,6 +11,13 @@ with open('calls.csv', 'r') as f:
     reader = csv.reader(f)
     calls = list(reader)
 
+"""
+任务1：
+短信和通话记录中一共有多少电话号码？每个号码只统计一次。
+输出信息：
+"There are <count> different telephone numbers in the records."
+"""
+
 #遍历list0，找出不在list1中的新元素
 def trav(list0,list1):
     tmp = list1
@@ -42,9 +49,3 @@ def count(list0,list1):
     return(num)
 
 print(count(texts,calls))
-"""
-任务1：
-短信和通话记录中一共有多少电话号码？每个号码只统计一次。
-输出信息：
-"There are <count> different telephone numbers in the records."
-"""
