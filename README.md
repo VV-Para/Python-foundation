@@ -3,11 +3,11 @@ code for Udacity python-foundation course.
 
 -----------------------------------------------
 20171021: 
-第一次提交P1
+第一次提交P1 investigate texts and calls
 
 -----------------------------------------------
 20171022:
-第一次提交P2
+第二次提交P1 investigate texts and calls
 
 task0：<br />
 去除return（）中的内容
