@@ -1,5 +1,4 @@
-# Udacity python-foundation
-code for Udacity python-foundation course.
+# 优达学城Python入门课程项目
 
 -----------------------------------------------
 20171021: 
